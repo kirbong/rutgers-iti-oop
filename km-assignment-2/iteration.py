@@ -19,5 +19,5 @@ for x in badlist:
     if type(x) is str:
 # appending strings into goodlist 
         goodlist.append(x)
-        print(goodlist)
+print(goodlist)
         
