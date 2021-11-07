@@ -1,5 +1,5 @@
 # Mid-term Project - Package Research
-
+**Run main.py**
 
 ## BeautifulSoup - Kristen
 ### Package Summary
