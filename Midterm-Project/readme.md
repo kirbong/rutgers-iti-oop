@@ -64,5 +64,6 @@ Re is a python package that provides matching operations similar to perl. Regula
 - Implement Flask package to convert code into a webpage
 - How to further implement/use Requests package
 - How to further implement/use Re package
+- Caching using Pickle for faster searches
 
 **Written by Kristen Marcinek, Tiffany Alston, and Scott Mitchell**
