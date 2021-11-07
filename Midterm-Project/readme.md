@@ -10,7 +10,7 @@ BeautifulSoup is a Python package that parses and searches web pages, otherwise 
 
 1. In terminal: `pip install beautifulsoup4`
 2. In code: `from bs4 import BeautifulSoup`
-3. Hit "run" to run code
+3. Hit "run" to run written code
 
 ### Code
 
@@ -29,7 +29,7 @@ Requests is a Python package that allows the user to send HTTP/1.1 easily withou
 
 1. In terminal: `pip install requests`
 2. In code: `import requests`
-3. Hit "run" to run code
+3. Hit "run" to run written code
 
 ### Code
 
@@ -48,7 +48,7 @@ Re is a python package that provides matching operations similar to perl. Regula
 
 1. In terminal: `pip install re`
 2. In code: `import re`
-3. Hit "run" to run code
+3. Hit "run" to run written code
 
 ### Code
 
@@ -65,5 +65,7 @@ Re is a python package that provides matching operations similar to perl. Regula
 - How to further implement/use Requests package
 - How to further implement/use Re package
 - Caching using Pickle for faster searches
+- How to implement expressions in future programming in libraries.
+- RegEx Functions will help replace dialogs in processors and text editors.
 
 **Written by Kristen Marcinek, Tiffany Alston, and Scott Mitchell**
