@@ -12,7 +12,8 @@ BeautifulSoup is a Python package that parses and searches web pages, otherwise 
 
 `soup = BeautifulSoup(data.text, "html.parser")`
 - Parses the webpage
-> Parse is a command for dividing the given program code into a small piece of code for analyzing the correct syntax Source: https://www.educba.com/python-parser/
+> Parse is a command for dividing the given program code into a small piece of code for analyzing the correct syntax 
+> Source: https://www.educba.com/python-parser/
 
 # Requests
 
@@ -21,3 +22,5 @@ BeautifulSoup is a Python package that parses and searches web pages, otherwise 
 
 
 # Future Ideas
+
+# Written by Kristen Marcinek, Tiffany Alston, and Scott Mitchell
