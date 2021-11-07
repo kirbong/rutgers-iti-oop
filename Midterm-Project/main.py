@@ -1,3 +1,5 @@
+# by Kristen Marcinek, Tiffany Alston, and Scott Mitchell
+
 from bs4 import BeautifulSoup # package 1 
 import requests # package 2
 import re # package 3
